@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/w1.indap.cl",
     "slug": "servidor-web1",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 818,
-    "timeDay": 964,
-    "timeWeek": 899,
-    "timeMonth": 862,
-    "timeYear": 818,
+    "uptimeYear": "99.85%",
+    "time": 814,
+    "timeDay": 643,
+    "timeWeek": 862,
+    "timeMonth": 858,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2022-04-03": 81
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 801,
-    "timeDay": 963,
-    "timeWeek": 893,
-    "timeMonth": 842,
-    "timeYear": 801,
+    "time": 797,
+    "timeDay": 646,
+    "timeWeek": 856,
+    "timeMonth": 841,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2022-04-03": 80
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 806,
-    "timeDay": 992,
-    "timeWeek": 916,
-    "timeMonth": 846,
-    "timeYear": 806,
+    "time": 804,
+    "timeDay": 744,
+    "timeWeek": 893,
+    "timeMonth": 850,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2022-04-03": 80
     }
