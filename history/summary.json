@@ -2,7 +2,7 @@
   {
     "name": "Servidor Web1",
     "url": "https://w1.indap.cl/chk_status",
-    "icon": "https://favicons.githubusercontent.com/w1.indap.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/w1.indap.cl.ico",
     "slug": "servidor-web1",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 763,
-    "timeDay": 718,
-    "timeWeek": 712,
-    "timeMonth": 772,
-    "timeYear": 763,
+    "time": 764,
+    "timeDay": 833,
+    "timeWeek": 717,
+    "timeMonth": 778,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2022-04-03": 81
     }
@@ -22,7 +22,7 @@
   {
     "name": "Servidor Web2",
     "url": "https://w2.indap.cl/chk_status",
-    "icon": "https://favicons.githubusercontent.com/w2.indap.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/w2.indap.cl.ico",
     "slug": "servidor-web2",
     "status": "up",
     "uptime": "99.97%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 793,
-    "timeDay": 713,
-    "timeWeek": 684,
-    "timeMonth": 907,
-    "timeYear": 793,
+    "time": 794,
+    "timeDay": 919,
+    "timeWeek": 701,
+    "timeMonth": 914,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2022-04-03": 80
     }
@@ -42,7 +42,7 @@
   {
     "name": "Web institucional",
     "url": "https://www.indap.cl/chk_status",
-    "icon": "https://favicons.githubusercontent.com/www.indap.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.indap.cl.ico",
     "slug": "web-institucional",
     "status": "up",
     "uptime": "99.97%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 738,
-    "timeDay": 721,
-    "timeWeek": 683,
-    "timeMonth": 714,
-    "timeYear": 738,
+    "time": 739,
+    "timeDay": 934,
+    "timeWeek": 704,
+    "timeMonth": 724,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2022-04-03": 80
     }
