@@ -4,10 +4,10 @@
     "url": "https://w1.indap.cl/chk_status",
     "icon": "https://icons.duckduckgo.com/ip3/w1.indap.cl.ico",
     "slug": "servidor-web1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 761,
@@ -16,6 +16,7 @@
     "timeMonth": 736,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2022-10-22": 1,
       "2022-04-03": 81
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://w2.indap.cl/chk_status",
     "icon": "https://icons.duckduckgo.com/ip3/w2.indap.cl.ico",
     "slug": "servidor-web2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 790,
@@ -36,6 +37,7 @@
     "timeMonth": 740,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2022-10-22": 1,
       "2022-04-03": 80
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://www.indap.cl/chk_status",
     "icon": "https://icons.duckduckgo.com/ip3/www.indap.cl.ico",
     "slug": "web-institucional",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -56,6 +58,7 @@
     "timeMonth": 717,
     "timeYear": 737,
     "dailyMinutesDown": {
+      "2022-10-22": 0,
       "2022-04-03": 80
     }
   }
