@@ -1,7 +1,7 @@
 url: https://www.indap.cl/chk_status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-27T13:52:45.825Z
+status: up
+code: 200
+responseTime: 691
+lastUpdated: 2023-11-27T14:08:07.017Z
 startTime: 2022-03-28T19:34:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
