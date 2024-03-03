@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "96.29%",
     "time": 732,
-    "timeDay": 858,
-    "timeWeek": 741,
-    "timeMonth": 744,
+    "timeDay": 727,
+    "timeWeek": 749,
+    "timeMonth": 732,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2024-02-14": 40,
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/w2.indap.cl.ico",
     "slug": "servidor-web2",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "96.28%",
     "time": 937,
-    "timeDay": 756,
-    "timeWeek": 718,
-    "timeMonth": 741,
+    "timeDay": 691,
+    "timeWeek": 723,
+    "timeMonth": 731,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2024-02-14": 40,
@@ -69,8 +69,7 @@
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
-      "2023-06-18": 810,
-      "2023-03-04": 19
+      "2023-06-18": 810
     }
   },
   {
@@ -85,9 +84,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "96.28%",
     "time": 941,
-    "timeDay": 671,
-    "timeWeek": 711,
-    "timeMonth": 747,
+    "timeDay": 729,
+    "timeWeek": 717,
+    "timeMonth": 736,
     "timeYear": 1005,
     "dailyMinutesDown": {
       "2024-02-14": 40,
