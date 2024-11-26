@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 744,
-    "timeDay": 689,
-    "timeWeek": 747,
+    "timeDay": 783,
+    "timeWeek": 755,
     "timeMonth": 761,
     "timeYear": 775,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 923,
-    "timeDay": 694,
-    "timeWeek": 751,
-    "timeMonth": 739,
+    "time": 924,
+    "timeDay": 848,
+    "timeWeek": 762,
+    "timeMonth": 744,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2024-02-14": 40,
@@ -47,21 +47,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.indap.cl.ico",
     "slug": "web-institucional",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 980,
-    "timeDay": 685,
-    "timeWeek": 711,
-    "timeMonth": 728,
+    "time": 981,
+    "timeDay": 950,
+    "timeWeek": 743,
+    "timeMonth": 731,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2024-02-14": 40,
       "2024-02-13": 58,
-      "2023-12-11": 17,
-      "2023-11-27": 15
+      "2023-12-11": 17
     }
   }
 ]
